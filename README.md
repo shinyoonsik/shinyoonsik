@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Shin yoonsik</h1>
-<h3 align="left">a server developer striving to understand the principles of the system</h3>
+<h3 align="left">A server developer striving to understand the principles of the system.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinyoonsik&label=Profile%20views&color=0e75b6&style=flat" alt="shinyoonsik" /> </p>
 
