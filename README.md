@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [KafkaStreams](https://github.com/shinyoonsik/KafkaStreams)
 
-- 🌱 I’m currently learning **SpringBoot, Kafka, Mysql**
+- 🌱 I’m currently learning **SpringBoot, Kafka, KafkaStreams, DB, Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shinyoonsik](https://github.com/shinyoonsik)
 
